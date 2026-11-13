@@ -1,8 +1,8 @@
 # DSA---in---JAVA
 
-### 🚀 LeetCode 100 DSA Problems in Java
+### 🚀 LeetCode 1000 DSA Problems in Java
 
-**A structured collection of 100 LeetCode DSA problems solved in Java, designed to strengthen problem-solving skills, master core data structures & algorithms, and prepare for technical interviews.**
+**A structured collection of 1000 LeetCode DSA problems solved in Java, designed to strengthen problem-solving skills, master core data structures & algorithms, and prepare for technical interviews.**
 
 
 
@@ -128,7 +128,7 @@ LinkedIn: Chandan Mahanta
 
 
 ### ⭐ Keep Learning. Keep Solving. Keep Growing.
-100 Problems
+1000 Problems
      ↓
 Strong Fundamentals
      ↓
